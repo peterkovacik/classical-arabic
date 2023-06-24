@@ -40,7 +40,7 @@ export default {
 
 <style>
   .green-mountain-banner {
-        background-image: url('../assets/images/green-mountain-unsplash.jpg');
+        background-image: url('/images/green-mountain-unsplash.avif');
         height: 400px;
         background-repeat: no-repeat;
         background-position: center;

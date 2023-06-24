@@ -6,8 +6,8 @@
             <!--<g-link to="/" class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-400">
               Logo
             </g-link> -->
-            <g-link>
-              <g-image src="~/assets/images/classical-arabic-logo.png" width="171" height="100"/>
+            <g-link to="/">
+              <g-image src="/images/classical-arabic-logo.png" class="arabic-logo" width="171" height="100"/>
             </g-link>
             
             <!-- Mobile menu button -->
@@ -85,9 +85,14 @@
 
 <style scoped>
   .header-background {
-    background-image: url('../assets/images/islamic-white-banner.png');
+    background-image: url('/images/islamic-white-banner.avif');
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom: #eee 1px solid; 
+  }
+
+  .arabic-logo {
+    width: 171px;
+    height: 100px;
   }
 </style>
