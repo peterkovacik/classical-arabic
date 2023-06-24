@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w981:function(t,n,c){"use strict";c.r(n);var e={},s=c("KHd+"),a=Object(s.a)(e,(function(){var t=this._self._c;return t("layout",[t("div",[t("h1",{staticClass:"text-center title"},[this._v("Contact")])])])}),[],!1,null,"0c04bc82",null);n.default=a.exports}}]);

@@ -5,26 +5,28 @@
     <g-image alt="Example image" src="~/favicon.png" width="135" />
     -->
 
-    <div class="green-mountain-banner d-flex justify-content-center align-items-center">
-        <h1 class="display-1 title text-center text-white py-4 ">Classical Arabic with Omar</h1>
+    <div class="green-mountain-banner flex justify-center items-center">
+        <h1 class="title text-center text-7xl text-white">Classical Arabic with Omar</h1>
     </div>
 
-    <div class="content-width px-4 py-5">
-        <h1 class="title text-center pb-3">Classical Arabic Program</h1>
-        <p class="pb-3">Learn Classical Arabic in a step by step methodology designed to help you understand the meanings of the Qur'an and access traditional Islamic texts in the original Arabic.</p>
-        <p class="">Step 1: Learn to Read Classical Arabic</p>
-        <p class="">Step 2: Foundations of Classical Arabic</p>
-        <p class="">Step 3: Keys to Classical Arabic</p>
-        <p class="">Step 4: Navigating Classical Arabic</p>
-        <p class="py-3">See the current classes in the <NuxtLink class="text-success" to="https://arabicwithomar.teachable.com/" target="_blank">student portal</NuxtLink>.</p>
+    <div class="content-width pt-5 px-7">
+        <h1 class="title text-center pt-8 pb-3 text-4xl">Classical Arabic Program</h1>
+        <p class="py-3">Learn Classical Arabic in a step by step methodology designed to help you understand the meanings of the Qur'an and access traditional Islamic texts in the original Arabic.</p>
+        <p class="py-1">Step 1: Learn to Read Classical Arabic</p>
+        <p class="py-1">Step 2: Foundations of Classical Arabic</p>
+        <p class="py-1">Step 3: Keys to Classical Arabic</p>
+        <p class="py-1">Step 4: Navigating Classical Arabic</p>
+        <p class="py-2">See the current classes in the <g-link class="text-emerald-700 underline" to="https://arabicwithomar.teachable.com/" target="_blank">student portal</g-link>.</p>
     </div>
     
+    <div class="pb-10"></div>
     <Mailchimp />
   </Layout>
 </template>
 
 <script>
 import Mailchimp from '~/components/Mailchimp.vue'
+import EmailList from '~/components/EmailList.vue'
 
 export default {
   
@@ -32,7 +34,8 @@ export default {
     title: 'Website Name'
   },
   components: {
-    Mailchimp
+    Mailchimp,
+    EmailList
   },
     
 }

@@ -54,18 +54,20 @@
                About
             </li>
             -->
-            <g-link class="text-sm font-bold text-gray-800 hover:text-blue-400" to="/">
+            <g-link class="text-md font-bold text-gray-800 hover:text-emerald-700" to="/">
               Home
             </g-link>
-            <g-link class="text-sm font-bold text-gray-800 hover:text-blue-400" to="/about">
+            <g-link class="text-md font-bold text-gray-800 hover:text-emerald-700" to="/about">
               About
             </g-link>
-            <g-link class="text-sm font-bold text-gray-800 hover:text-blue-400" to="/contact">
+            <g-link class="text-md font-bold text-gray-800 hover:text-emerald-700" to="/contact">
               Contact
             </g-link>
-            <g-link class="text-sm font-bold text-gray-800 hover:text-blue-400" to="https://arabicwithomar.teachable.com/" target="_blank">
+            <button class=" w-1/2 bg-transparent hover:bg-emerald-800 text-emerald-800 font-semibold hover:text-white py-2 px-4 border border-emerald-800 hover:border-transparent rounded">
+              <g-link class="" to="https://arabicwithomar.teachable.com/" target="_blank">
               Student Portal
-            </g-link>
+              </g-link>
+            </button>
           </ul>
         </nav>
       </div>
