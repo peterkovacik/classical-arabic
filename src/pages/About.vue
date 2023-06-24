@@ -6,8 +6,32 @@
         <figure class="py-3">
             <img src="/images/self-image-trees.avif" alt="image of Omar"  class="center-image self-image"> 
         </figure>
-        <p class="py-3">Omar's teachers in the Arabic language include: Ustadh Amer Melham, Shaykh Faraz Khan, Shaykh Sohail Hanif (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwaukee); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Farid Dingle (Qibla); Ustadh Muhammad Metlwey (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawyah Institute); and Mawlana Syed Javed Ali Shah (private lessons).</p>
-        <p class="py-3">His teachers in Islamic Studies include: Hafiz M. Shafique (Masjid al-Qur'an in Milwaukee); Shaykh Salah al-Kurdi (Dar al-Hamd); Shaykh Ali Hani (private lessons); Shaykh Hamza Karamali (Sunnipath and Basira Education); Shaykh Abdul-Karim Yahya, Shaykh Faraz Rabbani (Sunnipath); Dr. Ashraf Muneeb (Qibla); Ustadh Abdo (Masjid al-'Aydarous in Aden); Mawlana Syed Javed Ali Shah (private lessons); Shaykh Isa Johannsen; Shaykh Mujahid Abdul-Karim (Fayda Institute); Shaykh Saifullah Abu M. (Maliki School); Dr. James Jones, Dr. Julie Lowe, Dr. Omar Imady, Dr. Tamara Gray, and Dr. Yasir Qadhi (The Islamic Seminary of America).</p>
+        <p class="pt-4 pb-2 font-bold">Omar's teachers in the Arabic language include (chronologically):</p>
+        <ul class="list-disc ml-7">
+          <li class="">Ustadh Amer Melham, Shaykh Faraz Khan, Shaykh Sohail Hanif (Qasid Institute)</li>
+          <li class="">Dr. Hamid Ouali (University of Wisconsin-Milwaukee)</li>
+          <li class="">Mufti Yusuf Mullan (Toronto Shariah Program)</li>
+          <li class="">Ustadh Farid Dingle (Qibla)</li>
+          <li class="">Ustadh Muhammad Metlwey (Studio Arabiyyah)</li>
+          <li class="">Ustadh Sayed Fathy (Sibawyah Institute)</li>
+          <li class="">Mawlana Syed Javed Ali Shah (private lessons)</li>
+        </ul> 
+        
+        <p class="pt-4 pb-2 font-bold">His teachers in Islamic Studies include (chronologically):</p>
+        <ul class="list-disc ml-7">
+          <li class="">Hafiz M. Shafique (Masjid al-Qur'an in Milwaukee)</li>
+          <li class="">Shaykh Salah al-Kurdi (Dar al-Hamd)</li>
+          <li class="">Shaykh Ali Hani (private lessons)</li>
+          <li class="">Shaykh Hamza Karamali (Sunnipath and Basira Education)</li>
+          <li class="">Shaykh Abdul-Karim Yahya, Shaykh Faraz Rabbani (Sunnipath)</li>
+          <li class="">Dr. Ashraf Muneeb (Qibla)</li>
+          <li class="">Ustadh Abdo (Masjid al-'Aydarous in Aden)</li>
+          <li class="">Mawlana Syed Javed Ali Shah (private lessons)</li>
+          <li class="">Shaykh Isa Johannson</li>
+          <li class="">Shaykh Mujahid Abdul-Karim (Fayda Institute)</li>
+          <li class="">Shaykh Saifullah Abu M. (Maliki School)</li>
+          <li class="">Dr. James Jones, Dr. Julie Lowe, Dr. Omar Imady, Dr. Tamara Gray, and Dr. Yasir Qadhi (The Islamic Seminary of America)</li>
+        </ul> 
     </div>
   </Layout>
 </template>

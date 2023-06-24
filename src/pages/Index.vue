@@ -26,7 +26,7 @@
 
 <script>
 import Mailchimp from '~/components/Mailchimp.vue'
-import EmailList from '~/components/EmailList.vue'
+
 
 export default {
   
@@ -34,8 +34,7 @@ export default {
     title: 'Website Name'
   },
   components: {
-    Mailchimp,
-    EmailList
+    Mailchimp
   },
     
 }
