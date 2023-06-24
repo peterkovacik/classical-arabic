@@ -35,7 +35,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button type="submit" class="bg-emerald-500 hover:bg-emerald-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Send</button>
+                    <button type="submit" class="bg-emerald-800 hover:bg-emerald-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Send</button>
                 </form>
             </div>
         </div>

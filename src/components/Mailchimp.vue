@@ -1,5 +1,5 @@
 <template>
-    <div id="mc_embed_shell">
+    <div id="mc_embed_shell" class="form-border border-solid border-2 border-emerald-800 rounded-2xl bg-lime-200">
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   
         <div id="mc_embed_signup">
@@ -66,6 +66,12 @@
         max-width: 350px;
     }
     
+    .form-border {
+        max-width: 440px;
+        display: block;
+        margin: 0 auto;
+    }
+
     /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     
