@@ -31,7 +31,7 @@ import Mailchimp from '~/components/Mailchimp.vue'
 export default {
   
   metaInfo: {
-    title: 'Website Name'
+    title: 'Home'
   },
   components: {
     Mailchimp

@@ -1,12 +1,12 @@
 <template>
     <layout>
         <div>
-            <h1 class="text-center title text-4xl py-5">Let's Connect</h1>
+            <h1 class="text-center title text-green-900 text-5xl py-7">Let's Connect</h1>
 
             <div class="leaves my-3"></div>
 
             <div class="my-3 py-3"></div>
-            <div class="w-full max-w-lg contact-form">
+            <div class="w-96 md:w-full max-w-lg contact-form">
                 <form action="https://formsubmit.co/871b77a3771c1f5953f344193a030234" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"> <!-- contact-form py-5 form-margin-show-button -->
                 <!-- Name input -->
                     <div class="mb-4">
@@ -35,7 +35,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button type="submit" class="bg-emerald-800 hover:bg-emerald-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Send</button>
+                    <button type="submit" class="bg-green-900 hover:bg-green-800 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline button-margin">Send</button>
                 </form>
             </div>
         </div>
@@ -43,9 +43,11 @@
 </template>
 
 <script>
-    export default {
-        
-    }
+export default {
+  metaInfo: {
+    title: 'Contact'
+  }
+}
 </script>
 
 <style scoped>
@@ -58,7 +60,7 @@
     .leaves {
         background-image: url('/images/leaves-three-sisters.avif');
         height: 300px;
-        width: 350px;
+        width: 340px;
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -67,14 +69,19 @@
         border-radius: 25px; /* rounded corners */
     }
    
+    @media only screen and (min-width: 400px) {
+       
+        .leaves {
+            width: 375px;
+        }
+       
+    }
     
 
-    @media only screen and (min-width: 720px) {
-       /* .contact-form {
-            width: 450px;
-        } */
+    @media only screen and (min-width: 768px) {
         .leaves {
-            width: 450px;
+            width: 500px;
+            height: 350px;
         }
        
     }

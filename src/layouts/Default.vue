@@ -57,7 +57,7 @@ query {
   figure, figcaption, footer, header, hgroup, 
   menu, nav, output, ruby, section, summary,
   time, mark, audio, video {
-    font-family: Avenir;
+    /*font-family: Avenir;*/
     line-height: 1.9;
   } 
   .title {

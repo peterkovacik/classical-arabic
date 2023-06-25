@@ -1,5 +1,5 @@
 <template>
-    <div id="mc_embed_shell" class="form-border border-solid border-2 border-emerald-800 rounded-2xl bg-lime-200">
+    <div id="mc_embed_shell" class="form-border border-solid border-2 border-green-800/25 rounded-2xl bg-green-200/25">
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   
         <div id="mc_embed_signup">
@@ -24,7 +24,7 @@
             </div>
                 <div class="optionalParent">
                     <div class="clear foot">
-                        <button type="submit" name="subscribe" id="mc-embedded-subscribe" class=" shadow bg-emerald-700 hover:bg-emerald-600 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-1 rounded" value="Subscribe">
+                        <button type="submit" name="subscribe" id="mc-embedded-subscribe" class=" shadow bg-green-800 hover:bg-green-800/75 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-1 rounded" value="Subscribe">
                             Subscribe
                         </button>
                         <!--
