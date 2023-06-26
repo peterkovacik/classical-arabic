@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1 class="text-center title text-4xl pt-8 pb-3">About Omar</h1>
+    <h1 class="text-center title text-green-900 text-5xl pt-8 pb-3">About Omar</h1>
     <div class="content-width px-7">
         <p class="pt-3 pb-4">Omar became Muslim in 2001 and began studying Classical Arabic in 2005 at Qasid Institute in Jordan. He has a Bachelor of Arts in Linguistics from the University of Wisconsin-Milwaukee and certificates in Teaching English as a Foreign Language from the Wisconsin ESL Institute (WESLI) in Madison, WI. He taught English to non-native speakers in Aden, Yemen and Bursa, Turkey, he taught Arabic and ESL at Clara Mohammed School in Milwaukee, WI, and he designed and taught a program for Classical Arabic at Fox Valley Islamic Society in Neenah, WI. He is currently resides with his family in Green Bay, WI and is pursuing a Masters of Divinity in Islamic Chaplaincy at The Islamic Seminary of America (TISA) while  taking additional coursework at Basira Education, Fayda Institute, and the Maliki School.</p>
         <figure class="pt-3 pb-9">
