@@ -7,7 +7,7 @@
               Logo
             </g-link> -->
             <g-link to="/">
-              <g-image src="/images/classical-arabic-logo.png" class="arabic-logo" width="171" height="100"/>
+              <g-image src="/images/classical-arabic-logo.png" class="arabic-logo" />
             </g-link>
             
             <!-- Mobile menu button -->
@@ -94,7 +94,7 @@
   }
 
   .arabic-logo {
-    width: 171px;
-    height: 100px;
+    width: 214px;
+    height: 125px;
   }
 </style>
