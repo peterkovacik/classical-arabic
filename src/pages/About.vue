@@ -6,6 +6,7 @@
         <figure class="pt-3 pb-9">
             <img src="/images/self-image-trees.avif" alt="image of Omar"  class="center-image self-image"> 
         </figure>
+        <!--
         <p class="pt-4 pb-2 font-bold">Omar's teachers in the Arabic language include (chronologically):</p>
         <ul class="list-disc ml-7">
           <li class="">Ustadh Amer Melham, Shaykh Faraz Khan, Shaykh Sohail Hanif (Qasid Institute)</li>
@@ -32,6 +33,7 @@
           <li class="">Dr. James Jones, Chaplain Omer Bajwa, Dr. Tamara Gray, Dr. Yasir Qadhi, Dr. Omar Imady, and Dr. Julie Lowe (The Islamic Seminary of America)</li>
           <li class="">Shaykh Saifullah Abu M. (Maliki School)</li>
         </ul> 
+        -->
     </div>
   </Layout>
 </template>
