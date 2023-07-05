@@ -64,7 +64,7 @@
               Contact
             </g-link>
             <button class=" w-1/2 bg-transparent hover:bg-green-800 text-green-800 font-semibold hover:text-white py-2 px-4 border border-green-800 hover:border-transparent rounded">
-              <g-link class="" to="https://arabicwithomar.teachable.com/" target="_blank">
+              <g-link class="" to="https://arabicinstructor.teachable.com/" target="_blank">
               Student Portal
               </g-link>
             </button>

@@ -15,7 +15,7 @@
         <p class="py-1">Step 1: Foundations of Classical Arabic</p>
         <p class="py-1">Step 2: Keys to Classical Arabic</p>
         <p class="py-1">Step 3: Navigating Classical Arabic</p>
-        <p class="py-2">See the current classes in the <g-link class="text-emerald-700 underline" to="https://arabicwithomar.teachable.com/" target="_blank">student portal</g-link>.</p>
+        <p class="py-2">See the current classes in the <g-link class="text-emerald-700 underline" to="https://arabicinstructor.teachable.com/" target="_blank">student portal</g-link>.</p>
     </div>
     
     <div class="pb-10"></div>
