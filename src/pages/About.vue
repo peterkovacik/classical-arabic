@@ -3,7 +3,7 @@
     <h1 class="text-center title text-green-900 text-5xl pt-8 pb-3">About Omar</h1>
     <div class="content-width px-7">
       <p class="pt-3 pb-4">
-        Omar became Muslim in 2001 with Hafiz M. Shafique at Masjid al-Qur'an in Milwaukee, WI, and he began studying Classical Arabic in 2005 at Qasid Institute in Jordan. He has a Bachelor of Arts in Linguistics from the University of Wisconsin-Milwaukee and certificates in Teaching English as a Foreign Language from the Wisconsin ESL Institute (WESLI) in Madison, WI. He taught English to non-native speakers in Aden, Yemen and Bursa, Turkey, and he taught Arabic and ESL at Clara Mohammed School in Milwaukee, WI. He designed a curriculum in Classical Arabic for the Fox Valley Islamic Society, and he currently teaches online Arabic lessons.
+        Omar became Muslim in 2001 with Hafiz M. Shafique at Masjid al-Qur'an in Milwaukee, WI, and he began studying Classical Arabic in 2005 at Qasid Institute in Jordan. He has a Bachelor of Arts in Linguistics from the University of Wisconsin-Milwaukee and certificates in Teaching English as a Foreign Language from the Wisconsin ESL Institute (WESLI) in Madison, WI. He taught English to non-native speakers in Aden, Yemen and Bursa, Turkey, and he taught Arabic and ESL at Clara Mohammed School in Milwaukee, WI. He designed a curriculum in Classical Arabic for the Fox Valley Islamic Society where he currently teaches online Arabic lessons.
       </p>
       <figure class="pt-3 pb-5">
           <img src="/images/self-image-trees.avif" alt="image of Omar"  class="center-image self-image"> 
