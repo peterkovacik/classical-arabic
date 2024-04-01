@@ -7,7 +7,7 @@
               Logo
             </g-link> -->
             <g-link to="/">
-              <g-image src="/images/classical-arabic-logo.png" class="arabic-logo" />
+              <g-image src="/images/classical-arabic-logo.png" class="arabic-logo" alt="logo for Classical Arabic with Peter Omar Kovacik" />
             </g-link>
             
             <!-- Mobile menu button -->

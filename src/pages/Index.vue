@@ -5,7 +5,7 @@
     <g-image alt="Example image" src="~/favicon.png" width="135" />
     -->
 
-    <div class="green-mountain-banner flex justify-center items-center">
+    <div class="green-mountain-banner flex justify-center items-center" title="green mountain image">
         <h1 class="title text-center text-7xl text-white">Classical Arabic with Omar</h1>
     </div>
 
