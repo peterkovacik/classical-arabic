@@ -1,6 +1,6 @@
 <template>
     <div class="pt-5 pb-7">
-        <div class="relative w-fit group block mx-auto"> 
+        <div class="relative w-fit group block mx-auto p-3"> 
             <div
                 class="absolute transitiona-all duration-1000 opacity-100 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg filter group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 ">
             </div>
