@@ -4,7 +4,9 @@
   
         <div id="mc_embed_signup">
             <form action="https://gmail.us21.list-manage.com/subscribe/post?u=976b4e4dab1a339bb9994e1f3&amp;id=14ebe9e37f&amp;f_id=004fd5e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-                <div id="mc_embed_signup_scroll"><h2 class="title text-center text-2xl"><span class="title text-2xl">Subscribe to our Newsletter</span></h2>
+                <div id="mc_embed_signup_scroll">
+                    <!--<h2 class="title text-center text-2xl"><span class="title text-2xl">Join our mailing list!</span></h2>
+                    -->
                     <div class="indicates-required">
                         <span class="asterisk">*</span> indicates required
                     </div>
