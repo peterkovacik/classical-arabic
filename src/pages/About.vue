@@ -18,42 +18,30 @@
     
        
           <p class="pt-3 pb-2">Omar's Arabic teachers include Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and Ustadh Amer Melham (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwauke); Shaykh Sulayman Van Ael and Shaykh Farid Dingle (Qibla/Sunnipath); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Muhammad Metweley (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawayh Center); and Mawlana Syed Javed Ali Shah (private Skype lessons).</p>
-          <!--
-              <p class="pt-3 pb-5"> 
-            <ul class="list-disc">
-
-            <li>Nahw: al-Ajarumiyyah, al-Azhariyyah, al-Tawdihat al-Jaliyyah, Mutammimat al-Ajurumiyyah, Matn Qatr al-Nada with parts of the commentary, Hidayat al-Nahw (twice), and a portion of Sharh al-'Awamil al-Mi'ah by al-Jurjani.</li>
-          <li>I'raab: applied practice with Qasas al-Nabiyyeen, 1/2 juz from Sura al-Ma'idah, and other texts</li>
-          <li>Sarf: applied memorization of verb tables, 'Ilm al-Seegah, Abwab al-Sarf</li>
-          <li>Balagha: al-Tuhfat al-Ikhwan fi 'Ilm al-Bayan, al-Balagha al-Wadiah, and Duroos al-Balagha</li>
-          <li>Linguistics coursework: Comparative Arabic dialects, Phonetics, Phonology, Syntax, teaching English grammar, and Language Typology & Universals</li>
-          <li></li>
-          <li></li> -->
-          <!--
-          <li>He began studying Classical Arabic in 2005 at Qasid Institute in Jordan. While there, he completed 21 months of full-time studies with  Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and other instructors, and he did six months of private lessons in Arabic grammar with Ustadh Amer Melham. During that time, he finished most of the Classical Arabic program and covered grammar texts including al-Ajarumiyyah, al-Azhariyyah, al-Tawdihat al-Jaliyyah, Mutammimat al-Ajurumiyyah, and Matn Qatr al-Nada with parts of the commentary.
-          </li>
-          <li>He studied Modern Standard Arabic and comparative Arabic dialects with Dr. Hamid Ouali at the University of Wisconsin-Milwaukee. As part of the Bachelor of Arts in Linguistics degree, he studied Phonetics, Phonology, Syntax, teaching English grammar, and Language Typology & Universals with other professors such as Dr. Edith Moravcsik.</li>
-          <li>He continued his Arabic studies at various online institutions like Sunnipath/Qibla with Shaykh Sulayman Van Ael and Shaykh Farid Dingle, at Studio Arabiyyah with Ustadh Muhammad Metweley, and at Sibawayh Center with with Ustadh Sayed Fathy covering texts like al-Tuhfat al-Ikhwan fi 'Ilm al-Bayan, al-Balagha al-Wadiah, and Duroos al-Balagha as well as studies in Egyptian Arabic and Media Arabic.</li>
-          <li>He studied online at Toronto Shariah Program with Mufti Yusuf Mullan covering the I'raab of Qasas al-Nabiyyeen, the memorization of verb tables, Hidayat al-Nahw, and selections from various other texts like Mi'yar al-'Ilm.</li>
-          <li>He then studied in private Skype lessons for 2.5 years with Mawlana Syed Javed Ali Shah covering Hidayat al-Nahw, Abwab al-Sarf, 'Ilm al-Seegah, I'raab of 1/2 juz from Sura al-Ma'idah, a portion of Sharh al-'Awamil al-Mi'ah by al-Jurjani, sections of balagha texts, and texts in other Islamic sciences.</li>
-        </ul>
-          -->
+          
           <p class="pt-3 pb-4">In addition to Arabic, he has studied traditional Islamic sciences like aqidah ('Ashari), fiqh (Shafi'i, Hanafi, and Maliki), 'usul al-fiqh, hadith methodology, and tajwid with Shaykh Hamza Karamali, Shaykh Mujahid Abdul-Karim, Shaykh Abdul-Karim Yahya, Mawlana Syed Javed Ali Shah,  Shaykh Ashraf Muneeb, Shaykh Faraz Rabbani, Shaykh Isa Husayn, Shaykh Saifullah Abu M., Shaykh Salah al-Kurdi, Shaykh Ali Hani, and others.</p>
           
-        </ul>
-      </p>
-      
-
-      
     </div>
+
+    <CoursesButton />
   </Layout>
 </template>
 
+
+
 <script>
+
+import CoursesButton from '~/components/CoursesButton.vue'
+
 export default {
+  
   metaInfo: {
     title: 'About'
-  }
+  },
+  components: {
+    CoursesButton
+  },
+    
 }
 </script>
 

@@ -1,10 +1,13 @@
 <template>
     <footer class="bg-light mt-4 py-7 mt-10 bg-green-800">
         <div class="text-center flex justify-center items-center">
-            <span><p class="text-center text-green-900  copyright mx-1">&copy; 2023 | Peter Omar Kovacik</p></span>
+            <span><p class="text-center text-green-900  copyright mx-1">&copy; 2024 | Peter Omar Kovacik</p></span>
+            
+            <!-- Instagram Link
             <g-link class="nav-link instagram-link mx-1" to="https://www.instagram.com/omarkovacik/" target="_blank">
                 <g-image src="/images/pngtree-instagram.png" alt="Instagram icon" width="35px" height="35px" class="instagram-icon align-middle"/>
             </g-link>
+            -->
         </div>   
     </footer>
 </template>
