@@ -19,10 +19,12 @@
     </div>
     
     <div class="pb-10"></div>
+    
+    <!--
     <h2 class="title text-center pt-8 pb-8 text-4xl">Join our mailing list!</h2>
     <Mailchimp />
     <div class="py-3"></div>
-  
+    -->
 
     
   </Layout>
@@ -30,7 +32,7 @@
 
 <script>
 import Mailchimp from '~/components/Mailchimp.vue'
-import Connect from '~/components/Connect.vue'
+//import Connect from '~/components/Connect.vue'
 
 export default {
   
