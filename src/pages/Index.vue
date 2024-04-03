@@ -12,9 +12,10 @@
     <div class="content-width pt-5 px-7">
         <h2 class="title text-center pt-8 pb-3 text-4xl">Classical Arabic Program</h2>
         <p class="py-3">Learn Classical Arabic in a step by step methodology designed to help you understand the meanings of the Qur'an and access traditional Islamic texts in the original Arabic.</p>
-        <p class="py-1">Step 1: Foundations of Classical Arabic</p>
-        <p class="py-1">Step 2: Keys to Classical Arabic</p>
-        <p class="py-1">Step 3: Navigating Classical Arabic</p>
+        <p class="py-1">Step 1: Classical Arabic for Beginners</p>
+        <p class="py-1">Step 2: Foundations of Classical Arabic</p>
+        <p class="py-1">Step 3: Keys to Classical Arabic</p>
+        <p class="py-1">Step 4: Navigating Classical Arabic</p>
         <p class="py-2">Sign up for current classes in the <g-link class="text-emerald-700 underline" to="https://arabicinstructor.teachable.com/" target="_blank">student portal</g-link>.</p>
     </div>
     

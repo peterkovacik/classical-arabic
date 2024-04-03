@@ -17,7 +17,7 @@
       <h2 class="text-center title text-green-900 text-3xl pt-8 pb-3">Arabic Studies</h2>
     
        
-          <p class="pt-3 pb-2">Omar's Arabic teachers include Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and Ustadh Amer Melham (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwauke); Shaykh Sulayman Van Ael and Shaykh Farid Dingle (Qibla/Sunnipath); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Muhammad Metweley (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawayh Center); and Mawlana Syed Javed Ali Shah (private Skype lessons).</p>
+          <p class="pt-3 pb-2">Omar's Arabic teachers include Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and Ustadh Amer Melham (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwaukee); Shaykh Sulayman Van Ael (Sunnipath); Shaykh Farid Dingle (Qibla); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Muhammad Metweley (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawayh Center); and Mawlana Syed Javed Ali Shah (private Skype lessons).</p>
           
           <p class="pt-3 pb-4">In addition to Arabic, he has studied traditional Islamic sciences like aqidah ('Ashari), fiqh (Shafi'i, Hanafi, and Maliki), 'usul al-fiqh, hadith methodology, and tajwid with Shaykh Hamza Karamali, Shaykh Mujahid Abdul-Karim, Shaykh Abdul-Karim Yahya, Mawlana Syed Javed Ali Shah,  Shaykh Ashraf Muneeb, Shaykh Faraz Rabbani, Shaykh Isa Husayn, Shaykh Saifullah Abu M., Shaykh Salah al-Kurdi, Shaykh Ali Hani, and others.</p>
           
