@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Arabic Instructor',
+  siteName: 'Classical Arabic with Omar',
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss2",
