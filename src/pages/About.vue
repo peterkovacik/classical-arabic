@@ -7,7 +7,7 @@
       </p>
       
       <p class="pt-3 pb-9">
-        Omar resides with his family in Green Bay, WI. He is currrently pursuing studies in Maliki fiqh and related subjects with Shaykh Mujahid Abdul-Karim at Fayda Institute, teacher training for 'Why Islam is True' with Shaykh Hamza Karamali at Basira Education, and a Masters of Divinity in Islamic Chaplaincy at The Islamic Seminary of America (TISA) with Dr. James Jones, Dr. Tamara Gray, Dr. Yasir Qadhi, Dr. Julie Lowe, Dr. Omar Imady, and Dr. Jonathan Brown.
+        Omar resides with his family in Green Bay, WI. He is currrently pursuing studies in Maliki fiqh and related subjects with Shaykh Mujahid Abdul-Karim at Fayda Institute, Maliki fiqh with Shaykh Saifullah Abu M. at al-Madrasah al-Malikiyyah, teacher training for 'Why Islam is True' with Shaykh Hamza Karamali at Basira Education, and a Masters of Divinity in Islamic Chaplaincy at The Islamic Seminary of America (TISA) with Dr. James Jones, Dr. Tamara Gray, Dr. Yasir Qadhi, Dr. Julie Lowe, Dr. Omar Imady, and Dr. Jonathan Brown.
       </p>
 
       <figure class="pt-3 pb-5">
