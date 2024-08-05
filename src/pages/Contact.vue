@@ -8,6 +8,8 @@
             <div class="my-3 py-3"></div>
             <div class="w-96 md:w-full max-w-lg contact-form">
                 <form action="https://formsubmit.co/871b77a3771c1f5953f344193a030234" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"> <!-- contact-form py-5 form-margin-show-button -->
+                <!--<form action="https://formsubmit.co/info@arabicwithomar.com" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"> --> <!-- contact-form py-5 form-margin-show-button -->
+
                 <!-- Name input -->
                     <div class="mb-4">
                         <label class="block text-gray-700 text-sm font-bold mb-2" for="name">Name</label>
