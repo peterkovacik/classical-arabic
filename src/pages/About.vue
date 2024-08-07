@@ -7,7 +7,7 @@
       </p>
       
       <p class="pt-3 pb-9">
-        Omar resides with his family in Green Bay, WI. He is currrently pursuing studies in Maliki fiqh and related subjects with Shaykh Mujahid Abdul-Karim at Fayda Institute, Maliki fiqh with Shaykh Saifullah Abu M. at al-Madrasah al-Malikiyyah, teacher training for 'Why Islam is True' with Shaykh Hamza Karamali at Basira Education, and a Masters of Divinity in Islamic Chaplaincy at The Islamic Seminary of America (TISA) with Dr. James Jones, Dr. Tamara Gray, Dr. Yasir Qadhi, Dr. Julie Lowe, Dr. Omar Imady, and Dr. Jonathan Brown.
+        Omar resides with his family in Green Bay, WI. He is currrently pursuing studies in Maliki fiqh and related subjects with Shaykh Mujahid Abdul-Karim at Fayda Institute, teacher training for 'Why Islam is True' with Shaykh Hamza Karamali at Basira Education, and a Masters of Arts in Islamic Studies at The Islamic Seminary of America (TISA) with Dr. James Jones, Dr. Tamara Gray, Dr. Yasir Qadhi, Dr. Julie Lowe, Dr. Omar Imady, and Dr. Jonathan Brown.
       </p>
 
       <figure class="pt-3 pb-5">
@@ -17,7 +17,7 @@
       <h2 class="text-center title text-green-900 text-3xl pt-8 pb-3">Arabic Studies</h2>
     
        
-          <p class="pt-3 pb-2">Omar's Arabic teachers include Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and Ustadh Amer Melham (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwaukee); Shaykh Sulayman Van Ael (Sunnipath); Shaykh Farid Dingle (Qibla); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Muhammad Metweley (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawayh Center); and Mawlana Syed Javed Ali Shah (private Skype lessons).</p>
+          <p class="pt-3 pb-2">Omar's Arabic teachers include Shaykh Faraz Khan, Shaykh Sohail Hanif, Shaykh Ahmad Snobar, and Ustadh Amer Melham (Qasid Institute); Dr. Hamid Ouali (University of Wisconsin-Milwaukee); Shaykh Sulayman Van Ael (Sunnipath); Shaykh Farid Dingle (Qibla); Mufti Yusuf Mullan (Toronto Shariah Program); Ustadh Muhammad Metweley (Studio Arabiyyah); Ustadh Sayed Fathy (Sibawayh Center); Mawlana Syed Javed Ali Shah (private Skype lessons); and Shaykh Abdul-Rahim Reasat (Seeker's Guidance).</p>
           
           <p class="pt-3 pb-4">In addition to Arabic, he has studied traditional Islamic sciences like aqidah ('Ashari), fiqh (Shafi'i, Hanafi, and Maliki), 'usul al-fiqh, hadith methodology, and tajwid with Shaykh Hamza Karamali, Shaykh Mujahid Abdul-Karim, Shaykh Abdul-Karim Yahya, Mawlana Syed Javed Ali Shah,  Shaykh Ashraf Muneeb, Shaykh Faraz Rabbani, Shaykh Isa Husayn, Shaykh Saifullah Abu M., Shaykh Salah al-Kurdi, Shaykh Ali Hani, and others.</p>
           
